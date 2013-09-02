@@ -10,4 +10,6 @@
 
 @interface BBlogDataProvider : NSObject
 
++ (id)sharedInstance;
+
 @end
